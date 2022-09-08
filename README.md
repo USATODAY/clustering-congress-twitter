@@ -24,7 +24,7 @@ Analysis by Aleszu Bajak, Data Team
 
 *Jana Lasser and David Garcia, Technical University of Graz, Austria for Congress Twitter dataset with expanded URLs and total interactions.*
 
-*Media Bias Fact Check scores provided by editor Dave Van Zandt. Details [here](https://mediabiasfactcheck.com/frequently-asked-questions/)*
+*Media Bias Fact Check scores provided by editor Dave Van Zandt. Details [here](https://mediabiasfactcheck.com/frequently-asked-questions/).*
 
 ## Technical
 
